@@ -1,0 +1,1 @@
+# Notes on Ipython notebooks, Python, Pandas, Matplotlib and Numpy
